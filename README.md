@@ -1,7 +1,7 @@
-#RSEngineProject
+# RSEngineProject
 A simple game engine built in C++.
 
-#Description
+## Description
 RSEngine is a game engine developed by Solomon and Ransford, as our final exam for DCIT314. It offers a variety of features including:
 
 3D Renderer in the edit view
@@ -20,9 +20,9 @@ Once you have the project up and running, you can start building and rendering y
 
 
 
-Acknowledgments
+## Acknowledgments
 This project was heavily inspired by a tutorial series by Arash Katami on 3D game programming,as well as tutorials from PardCode. The foundational concepts and certain parts of the codebase are borrowed from the PrimalEngine developed in the tutorial. We opted for this approach due to time constraints and the depth of knowledge provided in the series.
 
-Known Issues
+## Known Issues
 The engine may occasionally crash. In such cases, try rebuilding the project, and it should resolve the issue. We werent able to integrate the renderer entirely but it runs iin RSEnginev1. The sln file can be run to view the renderer
 
